@@ -1,7 +1,7 @@
 {
-  "name": "deathh-bot",
+  "name": "dth team yt guard bot",
   "version": "0.0.1",
-  "description": "Deathh bot",
+  "description": "DTH TEAM YT",
   "main": "dth.js",
   "dependencies": {
     "-": "^0.0.1",
@@ -20,6 +20,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "DTH TEAM YT",
+  "license": "APACHE 3.0"
 }
