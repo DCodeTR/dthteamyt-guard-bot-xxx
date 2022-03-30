@@ -40,7 +40,7 @@ exports.run = async (client, message, args) => {
 
 ` )
 
-.setImage("https://cdn.discordapp.com/attachments/927899618228969492/927899688189976626/banner.jpeg.png")
+.setImage("")
 
 
 message.channel.send(dthteamyt)
