@@ -14,8 +14,6 @@ exports.run = async (client, message, args) => {
 
    !avatar | **Etiketlediğiniz Kişinin Avatarını Atar**
 
-   !banlist | **Sunucuda Banlanananları Listeler**
-
    !ban | **Sunucudan Etiketlediğiniz Üyeyi Banlar**
 
    !kanal-koruma aç/kapat | **Kanal Koruma Özelliğini Açar**
